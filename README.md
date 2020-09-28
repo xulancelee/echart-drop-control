@@ -20,4 +20,3 @@ drop and control line chart data
 
 ## Demo
 你也可以在 [Demo](http://xulacne.com/demo/echart-drop-control.html) 预览
-
